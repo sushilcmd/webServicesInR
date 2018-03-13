@@ -44,4 +44,4 @@ http://youIP:portNo/getSum?a=10&b=20
 ```
 
 
-### For better understanding you can go through service.R code, in which 3-4 services are written.
+### For better understanding you can go through webService.R code.
